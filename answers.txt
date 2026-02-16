@@ -1,3 +1,7 @@
 Q1: Why might we consider using Git?
 
 Answer: Because it's used in the industry
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: It could be used in the healthcare industry. By parsing through lab results to help catch patients at high risk of disease
