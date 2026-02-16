@@ -5,3 +5,7 @@ Answer: Because it's used in the industry
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: It could be used in the healthcare industry. By parsing through lab results to help catch patients at high risk of disease
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: merge creates a new commit while rebase rewrites it
