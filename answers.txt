@@ -8,4 +8,4 @@ Answer: It could be used in the healthcare industry. By parsing through lab resu
 
 Q3: What is the difference between Merging and Rebasing?
 
-Answer: merge creates a new commit while rebase rewrites it
+Answer: Merging creates a new commit while rebase rewrites it
